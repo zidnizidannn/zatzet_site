@@ -2,6 +2,10 @@
     font-family: tommy;
     src: url(font/MADE\ TOMMY\ Medium_PERSONAL\ USE.otf);
 }
+@font-face {
+    font-family: tommy_bold;
+    src: url(font/MADE\ TOMMY\ Bold_PERSONAL\ USE.otf);
+}
 
 @media (max-width: 768px) {
     .collapse.navbar-collapse {
