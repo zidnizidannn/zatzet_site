@@ -1,1 +1,1 @@
-# Projek UAS Smt 2 Sedain dan Pemrograman Web
+# Projek UAS Smt 2 Desain dan Pemrograman Web
